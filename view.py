@@ -130,7 +130,7 @@ n = pV / RT
 ### 3. Calculate the standard volume of n [mol] gas and divide by time
 sccm = V_std n / t
 
-### Notes: Be careful for the units.
+### Notes: Be careful of the units.
 
     """
     return ft.View('constants', [
